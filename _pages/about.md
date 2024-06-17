@@ -10,16 +10,10 @@ redirect_from:
 
 EDUCATION
 ======
-
-   Beijing Normal University   
-* Ph.D. Student of Journalism and Communication Studies  
-MIT Media Lab    
-* Visiting Scholar  
-Beijing Normal University    
-* Master of Communication Studies  
-Central South University    
-* Bachelor of Digital Publishing (Major)   
-* Bachelor of English (Minor)
+* Sept 2021 - June 2024, **Beijing Normal University**, Ph.D. Student of Journalism and Communication Studies  
+* Sept 2022 - Aug 2023, **MIT Media Lab**, Visiting Scholar  
+* Sept 2019 - June 2021, **Beijing Normal University**, Master of Communication Studies  
+* Sept 2015 - June 2019, **Central South University**, Bachelor of Digital Publishing (Major) and Bachelor of English (Minor)
 
 
 ENGLISH PUBLICATIONS
