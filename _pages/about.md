@@ -9,14 +9,14 @@ redirect_from:
 
 
 EDUCATION
-------
-Beijing Normal University
+======
+Beijing Normal University    
 * Ph.D. Student of Journalism and Communication Studies
-MIT Media Lab
+MIT Media Lab    
 * Visiting Scholar
-Beijing Normal University
+Beijing Normal University    
 * Master of Communication Studies
-Central South University
+Central South University    
 * Bachelor of Digital Publishing (Major)
 * Bachelor of English (Minor)
 
