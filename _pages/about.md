@@ -11,7 +11,7 @@ redirect_from:
 EDUCATION
 ======
 Beijing Normal University   
-* Ph.D. Student of Journalism and Communication Studies 
+* Ph.D. Student of Journalism and Communication Studies  
 MIT Media Lab    
 * Visiting Scholar  
 Beijing Normal University    
