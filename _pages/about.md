@@ -62,34 +62,34 @@ AWARDS AND HONORS
 ------
 * Beijing Normal University, Outstanding Graduate; First Class Academic Scholarship, "Academic Innovation Award" in Communication (Grand Prize), Qi Hao Award "Academic Newcomer Award" (5th Edition), "Graduate Academic Award" (Grand Prize)      
 
-Academic Year: 2022–2023
+  Academic Year: 2022–2023
 
 * Ph.D. National Scholarship; Beijing Normal University "Graduate Academic Innovation Award", First Prize  
 
-Academic Year: 2021-2022
+  Academic Year: 2021-2022
 
 * Beijing Normal University, Second Class Academic Scholarship 
 
-Academic Year: 2019-2020
+  Academic Year: 2019-2020
 
 * Undergraduate National Scholarship; Central South University Academic Scholarship; Hunan Province Outstanding Graduate  
 
-Academic Year: 2017-2018
+  Academic Year: 2017-2018
 
 * Baosteel Outstanding Student Award; Central South University Academic Scholarship; Outstanding Student
 
-Academic Year: 2016-2017
+  Academic Year: 2016-2017
 
 * Undergraduate National Scholarship; Central South University Academic Scholarship; Outstanding Student
 
-Academic Year: 2015-2016
+  Academic Year: 2015-2016
 
 
 
 ENGLISH LEVEL 
 ------
-IELETS 7.5                                              
-CET-6: 629    
-CET-4: 614                                                           
-Senior middle school teacher qualification certificate    
+* IELETS 7.5                                              
+* CET-6: 629    
+* CET-4: 614                                                           
+* Senior middle school teacher qualification certificate    
 
