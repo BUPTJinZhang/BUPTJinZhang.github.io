@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor, <br />School of Communication, Shenzhen University<br />Ph.D. of School of Journalism and Communication, Beijing Normal University"
   location         : # "Earth"
-  employer         : "School of Communication, Shenzhen University"
+  employer         : # "School of Communication, Shenzhen University"
   uri              : # URL
   email            : "202131021007@mail.bnu.edu.cn" 
 
