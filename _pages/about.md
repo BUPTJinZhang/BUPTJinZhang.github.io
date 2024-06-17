@@ -10,6 +10,19 @@ redirect_from:
 
 EDUCATION
 ======
+* Beijing Normal University, Outstanding Graduate; First Class Academic Scholarship, "Academic Innovation Award" in Communication (Grand Prize), Qi Hao Award "Academic Newcomer Award" (5th Edition), "Graduate Academic Award" (Grand Prize)      
+  Academic Year: 2022–2023
+* Ph.D. National Scholarship; Beijing Normal University "Graduate Academic Innovation Award", First Prize  
+  Academic Year: 2021-2022
+* Beijing Normal University, Second Class Academic Scholarship 
+  Academic Year: 2019-2020
+* Undergraduate National Scholarship; Central South University Academic Scholarship; Hunan Province Outstanding Graduate  
+  Academic Year: 2017-2018
+* Baosteel Outstanding Student Award; Central South University Academic Scholarship; Outstanding Student
+  Academic Year: 2016-2017
+* Undergraduate National Scholarship; Central South University Academic Scholarship; Outstanding Student
+  Academic Year: 2015-2016
+
 Beijing Normal University
 * Ph.D. Student of Journalism and Communication Studies
 
