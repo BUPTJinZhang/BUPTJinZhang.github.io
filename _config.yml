@@ -21,7 +21,7 @@ repository               : "https://buptjinzhang.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "500x300.png"
+  avatar           : "e.png"
   name             : "RUKUN ZHANG"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. of School of Journalism and Communication, \n\n Beijing Normal University"
